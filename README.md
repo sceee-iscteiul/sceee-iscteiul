@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sceee-iscteiul
-- 👀 I’m interested in cyber security and parallel programming
+- 👋 Hi, I’m Sene Conte
+- 👀 I’m interested in cyber security, parallel programming and algorithm and data extructure
 - 🌱 I’m currently learning ciber security
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
